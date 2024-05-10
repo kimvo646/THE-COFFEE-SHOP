@@ -10,5 +10,6 @@ Here is the introduction to our files:
 - Data folder: contains raw data and preprocessed data, data divided into dimension tables.
 - 2 reports: 1 docx file, 1 pdf file
 - Power BI file: contains dashboards and drawn models.
+- Dashboard_The_coffee_shop.pdf: contains dashboards
 - “Slide presentation” pdf file: contains presentation slides
 - ipynb file: used to code and draw descriptive statistical charts.
